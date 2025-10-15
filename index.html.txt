@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Магические витражи и шаблоны</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; background: #fdf6f0; }
+    .card { border: 1px solid #ccc; padding: 1em; margin-bottom: 1em; background: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .card img { max-width: 100%; border-radius: 5px; margin-bottom: 1em; }
+    .buy-button { background: #ff8c00; color: white; padding: 0.5em 1em; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 1em; }
+  </style>
+</head>
+<body>
+  <h1>Добро пожаловать в лесную мастерскую</h1>
+  <p>Здесь вы найдёте витражные шаблоны и схемы с природными мотивами — речные лилии, листья каштана и другие волшебные элементы.</p>
+
+  <div class="card">
+    <img src="images/preview-lily.png" alt="Витражная схема Речная лилия">
+    <h2>Витражная схема «Речная лилия»</h2>
+    <p>Цифровой шаблон для витража. Подходит для ручной сборки и адаптации в технике Тиффани. Формат: PNG, 3000×3000 px, 720 dpi.</p>
+    <a class="buy-button" href="https://www.digiseller.market/asp2/pay_wm.asp?id_d=5489400">Купить</a>
+  </div>
+
+  <div class="card">
+    <img src="images/preview-chestnut.png" alt="Витражный шаблон Лист каштана">
+    <h2>Витражный шаблон «Лист каштана»</h2>
+    <p>Файл в форматах PNG и SVG + легенда. Подходит для витражной резки, печати и декоративного оформления. Размер: 3000×3000 px, 720 dpi.</p>
+    <a class="buy-button" href="https://www.digiseller.market/asp2/pay_wm.asp?id_d=5469007">Купить</a>
+  </div>
+</body>
+</html>
