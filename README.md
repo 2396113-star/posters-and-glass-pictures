@@ -13,3 +13,28 @@ Fairy Tale Cards — это коллекция волшебных иллюстр
 Форматирование обучающих материалов для логопедов и родителей
 
 Интеграция с GitHub Pages и цифровыми площадками (Etsy, Digiseller)
+
+Fairy Tale Cards
+Fairy Tale Cards is a magical collection of printable illustrations 
+and educational cards inspired by woodland creatures, river lilies, and enchanted forest scenes. 
+Each design is crafted with care for stained glass, packaging, textiles, and digital storefronts.
+
+
+🔹 What’s inside:
+
+High-resolution illustrations (3000×3000 px, 720 dpi) with realistic textures and 
+cozy details
+
+Adaptable formats for stained glass, print-on-demand, and digital use
+
+Educational cards 
+for speech therapy and early learning, with playful forest themes
+
+HTML storefronts with decorative frames, 
+legends, and buy buttons
+
+Preview images and product-ready packaging for marketplaces 
+like Etsy and Digiseller
+
+Let your customers explore a forest of wonder 
+— one card at a time 🌿
