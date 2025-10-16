@@ -13,28 +13,32 @@ Fairy Tale Cards — это коллекция волшебных иллюстр
 Форматирование обучающих материалов для логопедов и родителей
 
 Интеграция с GitHub Pages и цифровыми площадками (Etsy, Digiseller)
+# Posters and Glass Pictures
 
-Fairy Tale Cards
-Fairy Tale Cards is a magical collection of printable illustrations 
-and educational cards inspired by woodland creatures, river lilies, and enchanted forest scenes. 
-Each design is crafted with care for stained glass, packaging, textiles, and digital storefronts.
+A magical collection of printable illustrations and stained-glass motifs inspired by woodland scenes, river lilies, and cozy forest creatures.
 
+## Project Goals
 
-🔹 What’s inside:
+- Create high-resolution illustrations for stained glass, packaging, and textiles
+- Adapt magical forest scenes for print and digital marketplaces
+- Build HTML storefronts with decorative frames, legends, and buy buttons
+- Format educational cards for speech therapy and early learning
 
-High-resolution illustrations (3000×3000 px, 720 dpi) with realistic textures and 
-cozy details
+## Featured Designs
 
-Adaptable formats for stained glass, print-on-demand, and digital use
+- 🦔 Hedgehog with basket
+- 🍂 Chestnut leaf
+- 🪷 River lily
+- 🦉 Owl on frosty window
 
-Educational cards 
-for speech therapy and early learning, with playful forest themes
+## Buy on Digiseller
 
-HTML storefronts with decorative frames, 
-legends, and buy buttons
+- [River Lily](https://digiseller.market/your-link)
+- [Chestnut Leaf](https://digiseller.market/your-link)
 
-Preview images and product-ready packaging for marketplaces 
-like Etsy and Digiseller
+## Technical Specs
 
-Let your customers explore a forest of wonder 
-— one card at a time 🌿
+- Format: PNG, 3000×3000 px
+- Resolution: 720 dpi
+- Background: transparent or decorative
+
