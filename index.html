@@ -1,91 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="ru">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fairy Tale Cards</title>
+  <meta charset="UTF-8">
+  <title>Волшебные иллюстрации</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f5f0;
+      background-color: #fdfaf6;
       margin: 0;
       padding: 20px;
     }
     h1 {
       text-align: center;
-      color: #5a3e2b;
+      color: #4b3b2b;
     }
     .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
-      margin-top: 30px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
     }
     .card {
-      background: #fff;
-      border: 2px solid #d4c1a3;
+      border: 2px solid #d8cfc4;
       border-radius: 12px;
       padding: 15px;
+      width: 300px;
+      background-color: #fffefc;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       text-align: center;
     }
     .card img {
-      max-width: 100%;
+      width: 100%;
       border-radius: 8px;
     }
-    .card h2 {
-      margin: 10px 0 5px;
-      color: #3e2f1c;
-    }
-    .card p {
+    .legend {
+      margin-top: 10px;
       font-size: 14px;
-      color: #6b5b4b;
+      color: #5a4a3b;
     }
     .buy-button {
-      display: inline-block;
-      margin-top: 10px;
+      margin-top: 12px;
       padding: 8px 16px;
-      background-color: #8c6f4e;
-      color: #fff;
-      text-decoration: none;
+      background-color: #8c6f5a;
+      color: white;
+      border: none;
       border-radius: 6px;
-    }
-    .legend {
-      margin-top: 40px;
+      cursor: pointer;
       font-size: 14px;
-      color: #5a3e2b;
-      text-align: center;
+    }
+    .buy-button:hover {
+      background-color: #a07c63;
     }
   </style>
 </head>
 <body>
-  <h1>🌿 Fairy Tale Cards Gallery</h1>
-
+  <h1>🌸 Волшебные иллюстрации и витражи</h1>
   <div class="gallery">
     <div class="card">
-      <img src="images/preview-lily.png" alt="River Lily" />
-      <h2>River Lily</h2>
-      <p>Delicate stained-glass motif with soft reflections and magical depth.</p>
-      <a href="https://digiseller.market/your-link-lily" class="buy-button">Buy</a>
+      <img src="lily glass preview.png" alt="Лилия">
+      <div class="legend">
+        Витраж «Лилия у ручья»<br>
+        Формат: PNG, 3000×3000 px<br>
+        Теги: цветы, вода, стекло
+      </div>
+      <button class="buy-button">Купить</button>
     </div>
-
     <div class="card">
-      <img src="images/preview-chestnut.png" alt="Chestnut Leaf" />
-      <h2>Chestnut Leaf</h2>
-      <p>Warm autumn tones and realistic texture, perfect for packaging and glass.</p>
-      <a href="https://digiseller.market/your-link-chestnut" class="buy-button">Buy</a>
+      <img src="chestnut leaf preview.png" alt="Каштан">
+      <div class="legend">
+        Витраж «Лист каштана»<br>
+        Формат: PNG, 3000×3000 px<br>
+        Теги: осень, листья, стекло
+      </div>
+      <button class="buy-button">Купить</button>
     </div>
-
     <div class="card">
-      <img src="images/preview-hedgehog.png" alt="Hedgehog with Basket" />
-      <h2>Hedgehog with Basket</h2>
-      <p>Cozy forest character with detailed fur and whimsical charm.</p>
-      <a href="https://digiseller.market/your-link-hedgehog" class="buy-button">Buy</a>
+      <img src="hedgehog and berries preview.png" alt="Ёжик">
+      <div class="legend">
+        Иллюстрация «Ёжик с корзинкой»<br>
+        Формат: PNG, 3000×3000 px<br>
+        Теги: лес, ягоды, персонаж
+      </div>
+      <button class="buy-button">Купить</button>
     </div>
-  </div>
-
-  <div class="legend">
-    All illustrations are high-resolution (3000×3000 px, 720 dpi), ready for stained glass, print, and digital use.
   </div>
 </body>
 </html>
